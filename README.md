@@ -70,6 +70,10 @@ Beyond my coding pursuits,
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MorganNavel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-navel-444647200/)
 
+[![Email Universitaire](https://img.shields.io/badge/Email_Universitaire-9cf?style=for-the-badge&logo=gmail)](mailto:morgan.navel@etu.umontpellier.fr)
+[![Email Professionnel](https://img.shields.io/badge/Email_Professionnel-9cf?style=for-the-badge&logo=gmail)](mailto:navelmorgan34@gmail.com)
+
+
 
 
 
