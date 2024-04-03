@@ -1,7 +1,7 @@
 
 ## Hey there 👋 ! I'm **Morgan NAVEL**
 
--  📚 Currently studying at the [University of Montpellier](https://sciences.edu.umontpellier.fr/en/welcome-to-the-faculty-of-sciences/) in the [Software Engineering](https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours/parcours-gl-genie-logiciel/) Master degree.
+-  📚 Currently studying at the [University of Montpellier](https://sciences.edu.umontpellier.fr/en/welcome-to-the-faculty-of-sciences/) in the [Software Engineering](https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours/parcours-gl-genie-logiciel/) Master's degree program.
 
 -  💻 A passionate Software Engineer from France.
 
@@ -9,7 +9,7 @@ Beyond my coding pursuits,
 
 -  🏓 I take pleasure in engaging in spirited table tennis matches
 
--  🎵 I also enjoy myself listening to music.
+-  🎵 I also enjoy listening to music.
 
 [![Morgan Navel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MorganNavel&count_private=true&show_icons=true&theme=radical)](https://github.com/MorganNavel)
 
