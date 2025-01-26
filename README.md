@@ -99,7 +99,7 @@ Beyond my coding pursuits,
 #  ✉️ To contact me :
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MorganNavel)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-navel-444647200/)
 [![Email Universitaire](https://img.shields.io/badge/Email_Universitaire-9cf?style=for-the-badge&logo=gmail)](mailto:morgan.navel@etu.umontpellier.fr)
 [![Email Professionnel](https://img.shields.io/badge/Email_Professionnel-9cf?style=for-the-badge&logo=gmail)](mailto:navelmorgan34@gmail.com)
 
